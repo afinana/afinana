@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @afinana
-- 👀 I’m interested in Springboot , Go, Node, Python , Quakus, K8s
-- 🌱 I’m currently learning AWS and GCP
+- 👀 I’m interested in Springboot , Go, Node, Python ,  Rust, Quakus, K8s
+- 🌱 I’m Associate Solution Architect of AWS and learning GCP
 - 💞️ I’m looking to collaborate on opensource projects 
 - 📫 How to reach me @antonio.finana@gmail.com
 
